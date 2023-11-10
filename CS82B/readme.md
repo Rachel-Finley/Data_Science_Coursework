@@ -1,1 +1,0 @@
-Principals of Data Science Course taken at SMC. Whereas 82A covered general skills needed to break into data science, 82B covered more advanced techniques of data wrangling, processing, EDA, and machine learning.
